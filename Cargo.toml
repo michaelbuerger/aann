@@ -2,5 +2,9 @@
 name = "aann"
 version = "0.1.0"
 edition = "2024"
+description = "Arbitrary Artificial Neural Network"
+readme = "README.md"
+repository = "https://github.com/michaelbuerger/aann"
+license-file = "LICENSE"
 
 [dependencies]
